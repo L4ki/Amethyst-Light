@@ -1,0 +1,2 @@
+# Amethyst-Light
+Plasma Theme
