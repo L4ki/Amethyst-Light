@@ -23,12 +23,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1033"
      id="namedview78"
      showgrid="false"
      inkscape:zoom="2.5252578"
-     inkscape:cx="71.804801"
+     inkscape:cx="0.72294948"
      inkscape:cy="85.844956"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -49,18 +49,6 @@
   </metadata>
   <defs
      id="defs5">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient900">
-      <stop
-         style="stop-color:#9462c6;stop-opacity:1;"
-         offset="0"
-         id="stop896" />
-      <stop
-         style="stop-color:#9462c6;stop-opacity:0;"
-         offset="1"
-         id="stop898" />
-    </linearGradient>
     <linearGradient
        id="linearGradient892">
       <stop
@@ -151,16 +139,6 @@
        id="radialGradient4671-1"
        xlink:href="#linearGradient892"
        gradientTransform="matrix(1.0765432,0,0,1.0765432,-333.58742,169.89278)" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient900"
-       id="radialGradient902"
-       cx="1018.4126"
-       cy="581.91724"
-       fx="1018.4126"
-       fy="581.91724"
-       r="104"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      transform="translate(-1798.1356,76.7415)"
@@ -181,21 +159,15 @@
   <g
      transform="translate(-917.46243,-480.01699)"
      id="ClockFace">
-    <circle
+    <ellipse
        id="path4329-4"
-       style="fill:url(#radialGradient902);fill-opacity:1;stroke:none;opacity:0.5"
-       cx="1018.4126"
-       cy="581.91724"
-       r="104" />
+       style="opacity:0.7;fill:#ecddfe;fill-opacity:1;stroke:none;stroke-width:0.92814434"
+       cx="1017.4225"
+       cy="580.14417"
+       rx="96.625969"
+       ry="96.427963" />
     <g
        id="g4323">
-      <rect
-         style="opacity:0.00499998;fill:#717171;fill-opacity:1;stroke:none"
-         id="rect4069"
-         width="214"
-         height="214"
-         x="910.79797"
-         y="473.08374" />
       <circle
          transform="matrix(1.0765432,0,0,1.0765432,-334.53758,169.99252)"
          id="path4329"
@@ -361,14 +333,14 @@
        id="rect4673"
        style="opacity:0.01000001;fill:#232629;fill-opacity:0.60392157;stroke:none" />
     <path
-       style="fill:#9462c6;fill-opacity:1;stroke:none"
+       style="fill:#7137c8;fill-opacity:1;stroke:none"
        d="m 980.52302,549.88656 -5.95481,-0.74154 2.52119,5.5089 0.0361,-0.0506 34.4809,25.90467 3.4218,-4.69848 -34.48069,-25.90464 z"
        id="rect5450" />
     <path
        transform="translate(-753.93395,199.18469)"
        d="m 1777.8958,382.03223 a 6.4994531,6.4994531 0 0 1 -6.4994,6.49945 6.4994531,6.4994531 0 0 1 -6.4995,-6.49945 6.4994531,6.4994531 0 0 1 6.4995,-6.49946 6.4994531,6.4994531 0 0 1 6.4994,6.49946 z"
        id="path5455-2"
-       style="fill:#9462c6;fill-opacity:1;stroke:none" />
+       style="fill:#7137c8;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="MinuteHand"
@@ -403,7 +375,7 @@
        height="1.7321701"
        width="77.735947"
        id="rect6212"
-       style="fill:#9462c6;fill-opacity:1;stroke:none" />
+       style="fill:#7137c8;fill-opacity:1;stroke:none" />
     <rect
        transform="matrix(-0.50061728,-0.86566873,0.86566873,-0.50061728,985.87226,726.54885)"
        y="96"
@@ -415,7 +387,7 @@
     <path
        id="path6214"
        d="m 1777.8958,382.03223 c 0,3.58955 -2.9099,6.49945 -6.4994,6.49945 -3.5896,0 -6.4995,-2.9099 -6.4995,-6.49945 0,-3.58955 2.9099,-6.49946 6.4995,-6.49946 3.5895,0 6.4994,2.90991 6.4994,6.49946 z"
-       style="fill:#9462c6;fill-opacity:1;stroke:none"
+       style="fill:#7137c8;fill-opacity:1;stroke:none"
        transform="matrix(0.29783451,0,0,0.29783451,489.8134,467.44934)" />
   </g>
   <g
