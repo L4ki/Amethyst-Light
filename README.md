@@ -1,5 +1,6 @@
 # Amethyst-Light
 Plasma Theme
+
 Screenshot:
 https://store.kde.org/p/1324259/
 
